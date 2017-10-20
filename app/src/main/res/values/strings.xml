@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather</string>
+
+    <string name="action_refresh">Atualizar</string>
+
+    <string name="btn_fechar">Fechar</string>
+
+    <string name="dialog_conn_message">Conexão de dados não disponível</string>
+
+    <string name="dialog_conn_msg">Sem conexão</string>
+
+</resources>
